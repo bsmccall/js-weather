@@ -1,0 +1,26 @@
+body {
+    background-image: url("clouds.jpg");
+    font-family: 'Aleo', serif;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 100px;
+    color: white;
+}
+
+.data {
+    margin-left: 20vw;
+    text-align: center;
+}
+
+.box {
+    border: 3px solid black;
+    margin-right: 50vw;
+    padding: 10px;
+    background-color: #fec56b;
+}
+
+h1 {
+    font-size: 60px;
+}
